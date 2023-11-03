@@ -1,8 +1,7 @@
 # Promptopia - Discover & Share AI-Powered Prompts
 
-![Promptopia Logo](https://i.ibb.co/D754gC4/Screenshot-131.png)
-![Promptopia Logo](https://i.ibb.co/cX7tvNg/Screenshot-132.png)
-![Promptopia Logo](https://i.ibb.co/3SzFB4P/Screenshot-133.png)
+![Promptopia Logo](https://i.ibb.co/cFqH98j/promptopia.png)
+
 
 Promptopia is an open-source AI prompting tool built with Next.js, designed to help users discover, create, and share creative prompts. It comes with authentication using Google and NextAuth, and offers features like creating, editing, searching, and copying prompts. Additionally, it provides user profiles and boasts a sleek and modern UI/UX design.
 
